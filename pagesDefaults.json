@@ -1,0 +1,101 @@
+[
+    {
+        "name": "m23",
+        "sections": [
+            {
+                "name": "Main Page",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/concurso-m23",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            },
+            {
+                "name": "Calendar",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/concurso-m23/calendarios",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            },
+            {
+                "name": "Examination Info",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/concurso-m23/informacoes-sobre-as-provas",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            }
+        ]
+    },
+    {
+        "name": "det",
+        "sections": [
+            {
+                "name": "Main Page",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/titulares-de-diploma-de-especializacao-tecnologica",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            },
+            {
+                "name": "Calendar",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/titulares-de-diploma-de-especializacao-tecnologica/calendarios",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            },
+            {
+                "name": "Examination Info",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/titulares-de-diploma-de-especializacao-tecnologica/informacoes-sobre-as-provas",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            }
+        ]
+    },
+    {
+        "name": "ctesp",
+        "sections": [
+            {
+                "name": "Main Page",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/titulares-de-diploma-de-tecnico-superior-profissional",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            },
+            {
+                "name": "Calendar",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/titulares-de-diploma-de-tecnico-superior-profissional/calendarios",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            },
+            {
+                "name": "Examination Info",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/titulares-de-diploma-de-tecnico-superior-profissional/informacoes-sobre-as-provas",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            }
+        ]
+        
+    },
+    {
+        "name": "tocs",
+        "sections": [
+            {
+                "name": "Main Page",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/titulares-de-outros-cursos-superiores",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            },
+            {
+                "name": "Calendar",
+                "url": "https://www.isel.pt/servicos/modalidades-de-ingresso/titulares-de-outros-cursos-superiores/calendario",
+                "last_hash": null,
+                "last_update": null,
+                "last_attempt": null
+            }
+        ]
+        
+    }
+]
